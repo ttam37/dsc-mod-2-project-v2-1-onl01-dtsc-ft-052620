@@ -9,7 +9,10 @@ For this analysis, we worked on the King County House sales dataset. The main ob
 
 # Technologies Used
 
-* 
+* Pandas for Data Cleaning & Data Manipulation
+* Matplotlib and Seaborn for Data Visualization
+* Numpy for Calculations
+* SciPy/Statsmodels/Scikit Learn for Linear Regression
 
 # Description of Dataset
 
