@@ -68,9 +68,7 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_3_bar.png)
 
-# Linear Regression Model
-
-# Assumptions
+# Linear Regression Assumptions
 
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_linearity.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_normality.png)
