@@ -57,7 +57,7 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Question 1: Does the distance between a house and downtown Seattle affect house prices?
 
-From the plot shown below, more expensive houses are in the Northern side of King County. There are a cluster of expensive houses near Seattle that surrounds the Lake Washington. Generally expensive houses surround the lake such as the city Medina being the most expensive city in King County. If we magnify into downtown Seattle, houses are average priced.
+From the plot shown below, more expensive houses are in the Northern side of King County. There are a cluster of expensive houses near Seattle that surrounds the Lake Washington. Generally expensive houses surround the lake such as the city Medina being the most expensive city in King County. If we magnify into downtown Seattle, houses are average priced. Another observation is that houses are clustered in specific regions which can possibly be an important feature (lat and long, city).
 
 From my analysis, the correlation between the distance and price is -0.211, a weak negative correlation. In addition, R-squared value is 0.098 which is not represented by the prediction model. More preprocessing needs to be done. 
 
@@ -67,10 +67,16 @@ I originally wanted to create feature engineering for my data, but because the r
 
 ## Question 2: Which city, on average has the most expensive homes?
 
+This was a personal question for myself in which I wanted to know what cities were most expensive in King County (in case I want to move to King County area). There is an obvious trend where there are less samples for more expensive cities and more samples for lower priced cities. Seattle, being the biggest city, have the most samples whereas Medina has the least samples.
+
+The most expensive city is Medina in which the average house price is $2,200,000. Medina is home to many large CEOs and executives including Jeff Bezos and Bill Gates. The most popular city of King County is Seattle which is average priced, $540,000. The lowest priced city is Federal Way, average price of $290,000.
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_scatter.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_bar.png)
 
 ## Question 3: Which features are most correlated with price?
+
+In my analysis, I considered features that were above 0.10 correlation to be correlated with price. Anything below absolute value of 0.10, I removed from the model.
 
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_3_bar.png)
 
