@@ -56,24 +56,30 @@ https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
 # Exploratory Data Analysis
 
 ## Question 1: Does the distance between a house and downtown Seattle affect house prices?
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_1.png)
 
 ## Question 2: Which city, on average has the most expensive homes?
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_scatter.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_bar.png)
 
 ## Question 3: Which features are most corrected with price?
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_3_bar.png)
 
 # Linear Regression Assumptions
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_linearity.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_normality.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_homo.png)
 
 # Multicollinearity
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_3_multicollinearity.png)
 
 # Final Model Results
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_p1.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_p2.png)
 
