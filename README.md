@@ -76,11 +76,13 @@ The most expensive city is Medina in which the average house price is $2,200,000
 
 ## Question 3: Which features are most correlated with price?
 
-In my analysis, I considered features that were above 0.10 correlation to be correlated with price. Anything below absolute value of 0.10, I removed from the model.
+In my analysis, I considered features that were above 0.10 correlation to be correlated with price. Anything below absolute value of 0.10, I removed from the model. Since categorical features/dummy variables automatically meet the linear assumption, these features are kept.
 
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_3_bar.png)
 
 # Linear Regression Assumptions
+
+
 
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_linearity.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_normality.png)
