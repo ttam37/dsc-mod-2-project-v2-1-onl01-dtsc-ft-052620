@@ -57,13 +57,22 @@ https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
 
 ## Question 1: Does the distance between a house and downtown Seattle affect house prices?
 
+![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_1.png)
+
 ## Question 2: Which city, on average has the most expensive homes?
+
+![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/README%20images/king_county_pic.jpg)
 
 ## Question 3: Which features are most corrected with price?
 
-# Linear Regression
+![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/README%20images/king_county_pic.jpg)
+
+# Baseline Regression
+
 
 # Multicollinearity
+
+![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/README%20images/king_county_pic.jpg)
 
 # Final Model Results
 
