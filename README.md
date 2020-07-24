@@ -64,11 +64,13 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_scatter.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_bar.png)
 
-## Question 3: Which features are most corrected with price?
+## Question 3: Which features are most correlated with price?
 
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_3_bar.png)
 
-# Linear Regression Assumptions
+# Linear Regression Model
+
+# Assumptions
 
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_linearity.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_normality.png)
