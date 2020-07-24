@@ -5,9 +5,11 @@ For this analysis, we worked on the King County House sales dataset. The main ob
 
 # Process Overview
 
-We will be using the OSEMN model
+
 
 # Technologies Used
+
+* 
 
 # Description of Dataset
 
