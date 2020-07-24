@@ -1,7 +1,7 @@
 
 # King County Housing Analysis
 
-For this analysis, we worked on the King County House sales dataset. The main objective is to create the best model and see which features affect the home prices of King County. We will perform linear regression analysis on the data and perform various statistical methods to help predict prices of homes based on selected features.
+For this analysis, we worked on the King County House sales dataset. The main objective is to create the best model and see which features best affect the home prices of King County. We will perform linear regression analysis on the data and perform various statistical methods to help predict prices of homes based on selected features.
 
 # Process Overview
 
