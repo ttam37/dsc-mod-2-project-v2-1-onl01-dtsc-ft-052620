@@ -9,12 +9,19 @@ For this analysis, we worked on the King County House sales dataset. The main ob
 
 # Technologies Used
 
+## Python
 * Pandas for Data Cleaning & Data Manipulation
 * Matplotlib and Seaborn for Data Visualization
 * Numpy for Calculations
 * SciPy/Statsmodels/Scikit Learn for Linear Regression
 
 # Description of Dataset
+
+The dataset was originally downloaded from an user from Kaggle. The original source can be found here:
+https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
+
+## Column Description
+
 
 # Exploratory Data Analysis
 
