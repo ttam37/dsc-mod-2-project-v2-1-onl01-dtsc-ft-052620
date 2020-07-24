@@ -57,6 +57,12 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Question 1: Does the distance between a house and downtown Seattle affect house prices?
 
+From the plot shown below, more expensive houses are in the Northern side of King County. There are a cluster of expensive houses near Seattle that surrounds the Lake Washington. Generally expensive houses surround the lake such as the city Medina being the most expensive city in King County. If we magnify into downtown Seattle, houses are average priced.
+
+From my analysis, the correlation between the distance and price is -0.211, a weak negative correlation. In addition, R-squared value is 0.098 which is not represented by the prediction model. More preprocessing needs to be done. 
+
+I originally wanted to create feature engineering for my data, but because the results weren't satisfying I decided to not use this feature.
+
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_1.png)
 
 ## Question 2: Which city, on average has the most expensive homes?
