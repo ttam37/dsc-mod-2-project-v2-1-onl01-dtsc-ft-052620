@@ -7,7 +7,7 @@ For this analysis, we worked on the King County House sales dataset. The main ob
 
 # Process Overview
 
-
+![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/README%20images/osemn_model.png)
 
 # Technologies Used
 
