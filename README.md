@@ -59,10 +59,10 @@ https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
 
 ## Question 3: Which features are most corrected with price?
 
-Linear Regression
+# Linear Regression
 
-Multicollinearity
+# Multicollinearity
 
-Final Model Results
+# Final Model Results
 
-Conclusion
+# Conclusion
