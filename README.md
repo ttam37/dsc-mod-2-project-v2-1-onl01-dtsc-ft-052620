@@ -44,7 +44,7 @@ https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
 * **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
 * **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
 
-## Additional Feature Engineering:
+## Feature Engineering
 
 * **total_sqft** - Total square footage (square_living + sqft_lot)
 * **total_sqft_inside** - Total square footage of inside (sqft_above + sqft_sqft_basement)
