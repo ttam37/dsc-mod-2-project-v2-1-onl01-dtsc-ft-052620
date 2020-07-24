@@ -1,13 +1,13 @@
 
 # King County Housing Analysis
 
-![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/README%20images/king_county_pic.jpg)
+![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/king_county_pic.jpg)
 
 For this analysis, we worked on the King County House sales dataset. The main objective is to create the best model and see which features best affect the home prices of King County. We will perform linear regression analysis on the data and perform various statistical methods to help predict prices of homes based on selected features.
 
 # Process Overview
 
-![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/README%20images/osemn_model.png)
+![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/osemn_model.png)
 
 # Technologies Used
 
