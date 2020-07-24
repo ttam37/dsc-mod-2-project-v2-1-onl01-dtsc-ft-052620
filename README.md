@@ -19,7 +19,7 @@ For this analysis, we worked on the King County House sales dataset. The main ob
 
 # Description of Dataset
 
-The dataset was originally downloaded from an user from Kaggle. The original source can be found here:
+The dataset was originally from an user from Kaggle, but was modified by Flatiron School to allow the dataset to be more challenging. The original source can be found here:
 https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Column Description
