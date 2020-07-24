@@ -20,7 +20,7 @@ For this analysis, we worked on the King County House sales dataset. The main ob
 # Description of Dataset
 
 The dataset was originally downloaded from an user from Kaggle. The original source can be found here:
-https://www.kaggle.com/harlfoxem/housesalesprediction/metadata
+https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Column Description
 
