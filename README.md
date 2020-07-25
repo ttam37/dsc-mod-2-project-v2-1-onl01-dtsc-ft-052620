@@ -104,4 +104,5 @@ In the form of the linear regression formula: y = b1x1 + b2x2 + … + bnxn + c:
 * c - intercept
 
 Final R-squared value: 0.757
+
 Top Coefficients: city_Medina, city_MercerIsland, waterfront_1, grade_binned_High
