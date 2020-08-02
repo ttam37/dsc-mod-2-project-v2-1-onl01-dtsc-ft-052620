@@ -61,14 +61,12 @@ From the plot shown below, more expensive houses are in the Northern side of Kin
 From my analysis, the correlation between the distance and price is -0.211, a weak negative correlation. In addition, R-squared value is 0.098 which is not represented by the prediction model. More preprocessing needs to be done. 
 
 I originally wanted to create feature engineering for my data, but because the results weren't satisfying I decided to not use this feature.
-
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_1.png)
 
 ## Question 2: Which city, on average has the most expensive homes?
 This was a personal question for myself in which I wanted to know what cities were most expensive in King County (in case I want to move to King County area). There is an obvious trend where there are less samples for more expensive cities and more samples for lower priced cities. Seattle, being the biggest city, have the most samples whereas Medina has the least samples.
 
 The most expensive city is Medina in which the average house price is $2,200,000. Medina is home to many large CEOs and executives including Jeff Bezos and Bill Gates. The most popular city of King County is Seattle which is average priced, $540,000. The lowest priced city is Federal Way, average price of $290,000.
-
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_scatter.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/EDA_2_bar.png)
 
@@ -81,7 +79,6 @@ If regression assumptions are not satisfied, we may not be able to get trustwort
 * Linearity - lineary relationship between predictor and target variable
 * Normality - model residuals should follow a normal distribution
 * Homoscedasticity - dependent variable is equal across the range of values of the predictors
-
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_linearity.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_normality.png)
 ![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_homo.png)
