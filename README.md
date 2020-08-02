@@ -93,17 +93,13 @@ The assumption in linear regression is that the dependent variable changes based
 
 # Final Model Results
 
-![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_p1.png)
-![King County House](https://github.com/ttam37/dsc-mod-2-project-v2-1-onl01-dtsc-ft-052620/blob/master/images/final_model_p2.png)
-
-# Conclusion
 In the form of the linear regression formula: y = b1x1 + b2x2 + … + bnxn + c:
 * bn - beta coefficients
 * xn - (1) independent variable
 * y - (1) dependent variable
 * c - intercept
 
-Final R-squared value: 0.705
+## Final R-squared value: 0.705
 
 Top Coefficients: 
 * city_Medina
