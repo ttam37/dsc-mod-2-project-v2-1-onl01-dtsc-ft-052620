@@ -103,6 +103,11 @@ In the form of the linear regression formula: y = b1x1 + b2x2 + … + bnxn + c:
 * y - (1) dependent variable
 * c - intercept
 
-Final R-squared value: 0.757
+Final R-squared value: 0.705
 
-Top Coefficients: city_Medina, city_MercerIsland, waterfront_1, grade_binned_High
+Top Coefficients: 
+* city_Medina
+* city_mercerIsland
+* latitude
+* longitude 
+* waterfront_1
